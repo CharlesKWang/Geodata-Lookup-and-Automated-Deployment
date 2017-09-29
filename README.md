@@ -1,5 +1,7 @@
 # Geodata-Lookup-and-Automated-Deployment
 A project of mine from the Department of Health and Mental Hygiene. The idea was to retrieve geodata from online sources, which were generally stored as shapefiles, and insert them automatically into a geodatabase through a python application.
+It was by no means complete by the time I left at the end of the summer, and this is just the portion which I wrote myself.
+I also wasn't able to test it very thoroughly due to network security issues, so judge it leniently please!
 
 # Functions:
 
