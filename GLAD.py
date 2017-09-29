@@ -209,7 +209,7 @@ def shp_file_upload(shp_file, dataset_name):
 
 class DBase:
     
-    dsn = r'DRIVER={SQL Server Native Client 11.0};SERVER=DEVSQL202;DATABASE=IIT_GIS_REFERENCE;UID=adev_iit_gis_reference;PWD=Geor3f@health;'
+    dsn = r'DRIVER={SQL Server Native Client 11.0};SERVER=DEVSQL202;DATABASE=database;UID=uid;PWD=pwd;'
 
     def __init__(self):
         try:
